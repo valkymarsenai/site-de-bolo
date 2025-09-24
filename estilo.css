@@ -1,0 +1,46 @@
+header img{
+    height: 230px;
+    width: 230px;
+}
+
+#section-banners img{
+    height: 500px;
+}
+
+
+#section-vendidos {
+    text-align: center;
+}
+
+#section-vendidos h2 {
+    font-weight: bold;
+    padding: 20px;
+}
+
+#section-vendidos img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#section-vendidos .preco {
+    color: rgb(0, 174, 255);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 0;
+}
+
+footer p{
+    font-weight: bold;
+    padding: 10px;
+}
